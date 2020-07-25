@@ -1,0 +1,11 @@
+.text {
+  font-weight: bold;
+  flex-wrap: wrap;
+  display: flex;
+}
+
+#_btn {
+  background-color: blue;
+  width: 60%;
+  color: white;
+}
